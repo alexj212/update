@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+.envrc
+.env
+build
+builds
+go.work
+go.work.sum
+go.sum
+bin/
+dist/
+tmp/
+venv/
+.history
+.vscode
